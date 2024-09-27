@@ -1,6 +1,6 @@
 
 <h1 align="center">👋 Hi, I'm Vedant Bhatkar</h1>
-<h3 align="center">UI/UX enthusiast.</h3>
+<h3 align="center">UI/UX enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1787323/screenshots/7003575/media/f09620a77deb456e82968e482130ef0f.png?compress=1&resize=450x338&vertical=top"
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=vedantbhatkar&label=Profile%20views&color=0e75b6&style=flat" alt="vedantbhatkar" /> </p>
